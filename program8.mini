@@ -1,0 +1,6 @@
+int x;
+real y;
+
+x = 10;
+y = x;
+print(y);

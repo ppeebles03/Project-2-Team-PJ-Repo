@@ -1,0 +1,5 @@
+int x;
+real x;
+
+x = 10;
+print(x);

@@ -1,0 +1,6 @@
+int x;
+real y;
+
+y = 5.5;
+x = y;
+print(x);
